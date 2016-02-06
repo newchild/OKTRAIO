@@ -10,3 +10,9 @@ C:\Users\iRaxe\Desktop\OKTR AIO\OKTR AIO (EB)\bin\Debug\Utility\SkinManager\Skin
 C:\Users\iRaxe\Desktop\OKTR AIO\OKTR AIO (EB)\obj\Debug\OKTRAIO.Properties.Resources.resources
 C:\Users\iRaxe\Desktop\OKTR AIO\OKTR AIO (EB)\obj\Debug\OKTRAIO.csproj.GenerateResource.Cache
 C:\Users\iRaxe\Desktop\OKTR AIO\OKTR AIO (EB)\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\bin\Debug\OKTRAIO.exe.config
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\obj\Debug\OKTRAIO.exe
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\obj\Debug\OKTRAIO.pdb
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\obj\Debug\OKTRAIO.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\obj\Debug\OKTRAIO.Properties.Resources.resources
+C:\Users\Fabian\Documents\GitHub\OKTRAIO\obj\Debug\OKTRAIO.csproj.GenerateResource.Cache

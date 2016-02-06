@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Champions\Katarina.cs" />
+    <Compile Include="Champions\VelKoz.cs" />
     <Compile Include="Champions\Zed.cs" />
     <Compile Include="Database\Spell Library\SpellDatabase.cs" />
     <Compile Include="Database\Spell Library\Values.cs" />
