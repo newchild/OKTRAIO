@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OKTRAIO.Utility.Spell
+namespace OKTRAIO.Utility.Spells
 {
 	class Triangular
 	{
